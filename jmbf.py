@@ -177,7 +177,7 @@ foto_2 = (f"""{c}     __   __  ___           __  ___   ___    ____{k}
 logo_epep = pilih([foto_2, foto_1])
 logo = (f"""
 {logo_epep}{Q}
-[++] Athour       : {Rk.Opik}
+[++] Athour       : {k.Opik}
 [++] WhatsApp     : {opik_hp}""")
 
 try:
@@ -191,7 +191,7 @@ ua_mm = ['NokiaC3-00/5.0 (07.20) Profile/MIDP-2.1 Configuration/CLDC-1.1 Mozilla
 try:
 	kiky_pass=requests.get("http://ip-api.com/json/").json()["country"].lower()
 except:
-	kiky_pass="RK"
+	kiky_pass="K"
 def menu():
 	os.system("clear")
 	try:
