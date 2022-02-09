@@ -177,7 +177,7 @@ foto_2 = (f"""{c}     __   __  ___           __  ___   ___    ____{k}
 logo_epep = pilih([foto_2, foto_1])
 logo = (f"""
 {logo_epep}{Q}
-[++] Athour       : {Rk.opik}
+[++] Athour       : {Rk.OPIK.XD}
 [++] WhatsApp     : {opik_hp}""")
 
 try:
