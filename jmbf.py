@@ -177,8 +177,8 @@ foto_2 = (f"""{c}     __   __  ___           __  ___   ___    ____{k}
 logo_epep = pilih([foto_2, foto_1])
 logo = (f"""
 {logo_epep}{Q}
-[++] Athour       : {Rk.Riaz}
-[++] WhatsApp     : {riaz_hp}""")
+[++] Athour       : {Rk.Opik}
+[++] WhatsApp     : {opik_hp}""")
 
 try:
 	ua = open(".ua","r").read()
